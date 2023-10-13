@@ -1,5 +1,5 @@
 # Discord-announces
-Este bot es de uso liberado y creado con el proposito de enviar anuncios personalizados a un canal de tu servidor 
+Este es un bot simple enfocado a pequeñas o medianas comunidades de discord su funcion es enviar anuncio por parte del equipo de administracion sin tener cada uno el deber de hacerlo
 
 
 # Si tienes dudas de como funciona no dudes en contactarme por discord o uniendote a NovuVitae donde puedes hablar con el bot de soporte por cualquier duda #
@@ -25,3 +25,8 @@ Este bot se puede utilizar tanto en linux, windows o MacOS
 # Como funciona 
 
 Una vez añadido a tu servidor y especificado en su codigo la id del canal al que enviaras el mensaje solo debes enviar un mensaje al dm del bot y este enviara el contenido dentro del embed al canal seleccionado.
+
+# Quieres Hosting para este bot de manera gratuita por 1 semana #
+## NovuVitae Labs 
+puedes solicitar mediante discord [NovuVitae](https://discord.gg/BMdVRYudak) el uso de este servicio.
+Solo para pocos cupos.
