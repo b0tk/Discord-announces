@@ -15,7 +15,7 @@ let activityIndex = 0;
 
 const activities = [
   { name: 'Создано Ботк' }, //puedes cambiar el estado sin problemas y colocar multiples estados automaticos solo descomenta las siguientes lineas 
-  { name: 'NovuVitae-devs' }, //(pd: solo puede decir que esta jugando a )
+  { name: 'NovuVitae-devs' }, 
   // { name: 'Estado 1' },
   // { name: 'Estado 2' },
   // { name: 'Estado 3' },
@@ -29,7 +29,7 @@ client.on('ready', () => {
     activityIndex += 1;
   }, 10000); // aqui esta el delay de cada estado 10000=10s
   console.log(`Iniciado como: ${client.user.tag}!`);
-  client.user.setStatus('online');
+  client.user.setStatus('online'); //aqui puedes cambiar su status entre online,dnd,idle,invisible
 });
 
 client.on('disconnect', () => {
