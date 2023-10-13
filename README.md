@@ -22,6 +22,6 @@ Puedes instalar manualmente discord.js o usar el archivo package.json de la sigu
 
 Este bot se puede utilizar tanto en linux, windows o MacOS
 
-#Como funciona 
+# Como funciona 
 
 Una vez añadido a tu servidor y especificado en su codigo la id del canal al que enviaras el mensaje solo debes enviar un mensaje al dm del bot y este enviara el contenido dentro del embed al canal seleccionado.
