@@ -1,32 +1,31 @@
-# Discord-announces
-Este es un bot simple enfocado a pequeñas o medianas comunidades de discord su funcion es enviar anuncio por parte del equipo de administracion sin tener cada uno el deber de hacerlo
+# Discord Announces Bot
 
+Este es un bot simple diseñado para comunidades de Discord pequeñas o medianas. Su función principal es enviar anuncios en nombre del equipo de administración, evitando que cada miembro tenga que hacerlo individualmente.
 
-# Si tienes dudas de como funciona no dudes en contactarme por discord o uniendote a NovuVitae donde puedes hablar con el bot de soporte por cualquier duda #
+## ¿Tienes preguntas sobre cómo funciona?
 
-Este proyecto tendra actualizaciones en su futuro si deseas agragar mas informacion en tu embed aqui tienes la documentacion ["https://discordjs.guide/popular-topics/embeds.html#embed-preview"]
+Si tienes dudas sobre el funcionamiento del bot, no dudes en contactarme a través de Discord o unirte a NovuVitae, donde puedes hablar con el bot de soporte para cualquier consulta.
 
-## Este bot utiliza node.js 
+## Actualizaciones Futuras
 
-[NODE.JS https://nodejs.org/es](https://nodejs.org/es)
+Este proyecto recibirá actualizaciones en el futuro. Si deseas agregar más información en tu embed, aquí tienes la documentación disponible [aquí](https://discordjs.guide/popular-topics/embeds.html#embed-preview).
 
-### dependencias 
+### Dependencias
+- Node.js: [Sitio Oficial](https://nodejs.org/es)
+- Discord.js 14.x.x
+- npm >8
 
-node.js >16
+Puedes instalar Discord.js manualmente o utilizar el archivo `package.json` de la siguiente manera: `npm install pkg.json`.
 
-npm >8
+Este bot es compatible con sistemas operativos Linux, Windows y MacOS.
 
-discord.js 14.x.x
+## Cómo Utilizar
 
-Puedes instalar manualmente discord.js o usar el archivo package.json de la siguiente manera #npm install pkg.json
+Una vez que lo hayas añadido a tu servidor y especificado en su código la ID del canal al que quieres enviar el mensaje, simplemente envía un mensaje directo al bot y él enviará el contenido dentro del embed al canal seleccionado.
 
-Este bot se puede utilizar tanto en linux, windows o MacOS
-
-# Como funciona 
-
-Una vez añadido a tu servidor y especificado en su codigo la id del canal al que enviaras el mensaje solo debes enviar un mensaje al dm del bot y este enviara el contenido dentro del embed al canal seleccionado.
-
-# Quieres Hosting para este bot de manera gratuita por 1 semana #
 ## NovuVitae Labs 
-puedes solicitar mediante discord [NovuVitae](https://discord.gg/BMdVRYudak) el uso de este servicio.
-Solo para pocos cupos.
+## ¿Quieres Hosting Gratuito por una Semana?
+
+Si deseas hosting gratuito para este bot durante una semana, puedes solicitarlo a través de Discord en [NovuVitae](https://discord.gg/BMdVRYudak). Ten en cuenta que esta oferta está limitada a un número reducido de cupos.
+
+---
