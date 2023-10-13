@@ -29,3 +29,4 @@ Una vez que lo hayas añadido a tu servidor y especificado en su código la ID d
 Si deseas hosting gratuito para este bot durante una semana, puedes solicitarlo a través de Discord en [NovuVitae](https://discord.gg/BMdVRYudak). Ten en cuenta que esta oferta está limitada a un número reducido de cupos.
 
 ---
+![Footer Image](https://media.discordapp.net/attachments/1162263699256508467/1162264043453681775/nv-blanco.png?ex=653b4dbd&is=6528d8bd&hm=9c40c3df566cfceecb742d39fb1caea44367055e41c1a733217dd7483acbacbc&=&width=1440&height=446)
